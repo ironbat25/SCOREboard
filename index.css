@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.scores {
+    font-family: Cursed Timer ULiL;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 90px;
+    line-height: 126.67px;
+    letter-spacing: 0%;
+    text-align: center;
+    background-color: black;
+    color: #F94F6D;
+    width: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    
+}
+
+.heading {
+    margin-bottom: 0px;
+    top: 68px;
+    left: 340px;
+    opacity: 1;
+    font-family: Verdana;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 35.89px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #EEEEEE;
+
+}
+
+.scores p {
+    margin: 20px;
+}
+
+.btn-all {
+    font-family: Cursed Timer ULiL;
+    display: flex;
+    justify-content: center;
+    width: 155px;
+    height: 50px;
+    top: 271px;
+    left: 82px;
+    border-radius: 5px;
+    opacity: 1;
+    background: #1B244A;
+    margin: 10px;
+    
+
+}
+
+.btn{
+    
+    height: 40px;
+    width: 50px;
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    padding: 10px;
+    margin: 0 5px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scores p {
+    margin: 0;
+}
